@@ -4,7 +4,7 @@ int main() {
 	float radius, area;
 	const float pI = 3.14159;
 	
-	printf("enter radius;");
+	printf("enter radius");
 	scanf("%f", &radius);
 	
 	area= pI * radius * radius;
